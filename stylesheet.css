@@ -1,0 +1,44 @@
+
+body {
+    background-color: lightblue;
+    color: darkblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: skyblue;
+    color: darkblue;
+}
+
+h3 {
+    background-color: lightsteelblue;
+    color: navy;
+}
+
+p {
+    background-color: white;
+    color: darkblue;
+}
+
+nav {
+    background-color: skyblue;
+}
+
+a {
+    color: blue;
+}
+
+hr {
+    background-color: blue;
+}
+
+footer {
+    background-color: skyblue;
+    color: darkblue;
+}
